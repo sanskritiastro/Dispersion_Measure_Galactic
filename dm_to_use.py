@@ -1,6 +1,6 @@
 import numpy as np
 import sys
-
+#inputs are l, b, maximum angular separation allowed, tolerance of minimum angular separation
 #in deg
 l_FRB = float(sys.argv[1])
 b_FRB = float(sys.argv[2])
